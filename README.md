@@ -7,4 +7,5 @@ Git hub stats:
 gamingblueshell-dev/gamingblueshell-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Gamingblueshell stats](https://api.nitestats.com/v1/fnfontgen?text=test)
+![Current leaks](https://api.peely.de
+/cdn/current/leaks.png)
