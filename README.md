@@ -10,3 +10,5 @@
 --------
 I develop BetterFN!
 :)
+Um
+i don't know what to put here. Guess join BetterFN discord.
