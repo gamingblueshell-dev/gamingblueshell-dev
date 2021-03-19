@@ -4,3 +4,6 @@
 
 
 ![News](https://api.peely.de//cdn//current//brnews_en.gif)
+
+
+![Leaks](https://api.peely.de/cdn/current/leaks.png)
