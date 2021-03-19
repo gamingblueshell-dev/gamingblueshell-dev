@@ -3,4 +3,4 @@
 
 
 
-![News](https://api.peely.de/v1/br/news)
+![News](https://api.peely.de//cdn//current//brnews_en.gif)
