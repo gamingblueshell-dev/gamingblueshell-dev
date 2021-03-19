@@ -1,3 +1,5 @@
+[![Gamingblueshell's github stats](https://github-readme-stats.vercel.app/api?username=gamingblueshell-dev&show_icons=true&theme=slateorange
+
 - 👋 Hi, I’m @gamingblueshell-dev
 - 👀 I’m interested in Fortnite: Fortnite modding/private servers/lobby bots
 <!---
